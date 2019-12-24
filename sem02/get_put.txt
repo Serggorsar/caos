@@ -1,0 +1,16 @@
+int getchar (void) == getc(stdin)
+
+int getc(FILE *) == fgetc(FILE *)
+
+
+
+int putchar(int )
+
+FILE* f = fopen("tmp.txt", "r");
+
+int putc(int, FILE*) == fputc(int, FILE*)
+
+
+
+
+
